@@ -4,4 +4,5 @@ module.exports = {
         password: '<dbPassword>',
         database: 'dbBookManagement',
     },
+    port: '8001',
 }
